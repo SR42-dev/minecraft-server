@@ -1,1 +1,11 @@
+# updating the server
+git pull origin main
+
+# starting the server
 java -Xmx8G -Xms2G -jar paper-1.19-28.jar
+
+# saving progress
+
+git add --all
+git commit -m "Saving progress."
+git push -u origin main
