@@ -1,38 +1,38 @@
-[12:55:37] [ServerMain/INFO]: Building unoptimized datafixer
-[12:55:38] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:55:39] [ServerMain/INFO]: Loaded 7 recipes
-[12:55:40] [Server thread/INFO]: Starting minecraft server version 1.19
-[12:55:40] [Server thread/INFO]: Loading properties
-[12:55:40] [Server thread/INFO]: This server is running Paper version git-Paper-28 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: b0eb4e0)
-[12:55:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:55:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:55:40] [Server thread/INFO]: Default game type: SURVIVAL
-[12:55:40] [Server thread/INFO]: Generating keypair
-[12:55:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:55:40] [Server thread/INFO]: Using epoll channel type
-[12:55:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[12:55:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[12:55:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:55:41] [Server thread/INFO]: Preparing level "world"
-[12:55:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:55:41] [Server thread/INFO]: Time elapsed: 188 ms
-[12:55:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:55:41] [Server thread/INFO]: Time elapsed: 76 ms
-[12:55:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:55:41] [Server thread/INFO]: Time elapsed: 74 ms
-[12:55:41] [Server thread/INFO]: Running delayed init tasks
-[12:55:41] [Server thread/INFO]: Done (1.467s)! For help, type "help"
-[12:55:41] [Server thread/INFO]: Timings Reset
-[12:56:04] [Server thread/INFO]: Stopping server
-[12:56:04] [Server thread/INFO]: Saving players
-[12:56:05] [Server thread/INFO]: Saving worlds
-[12:56:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:56:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[12:56:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[12:56:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:56:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:56:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:56:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12:56:06] [Server thread/INFO]: Flushing Chunk IO
-[12:56:06] [Server thread/INFO]: Closing Thread Pool
-[12:56:06] [Server thread/INFO]: Closing Server
+[13:52:41] [ServerMain/INFO]: Building unoptimized datafixer
+[13:52:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:52:43] [ServerMain/INFO]: Loaded 7 recipes
+[13:52:44] [Server thread/INFO]: Starting minecraft server version 1.19
+[13:52:44] [Server thread/INFO]: Loading properties
+[13:52:44] [Server thread/INFO]: This server is running Paper version git-Paper-28 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: b0eb4e0)
+[13:52:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:52:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:52:44] [Server thread/INFO]: Default game type: SURVIVAL
+[13:52:44] [Server thread/INFO]: Generating keypair
+[13:52:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:52:45] [Server thread/INFO]: Using epoll channel type
+[13:52:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:52:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:52:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:52:45] [Server thread/INFO]: Preparing level "world"
+[13:52:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:52:45] [Server thread/INFO]: Time elapsed: 174 ms
+[13:52:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:52:45] [Server thread/INFO]: Time elapsed: 83 ms
+[13:52:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:52:45] [Server thread/INFO]: Time elapsed: 90 ms
+[13:52:45] [Server thread/INFO]: Running delayed init tasks
+[13:52:45] [Server thread/INFO]: Done (1.171s)! For help, type "help"
+[13:52:45] [Server thread/INFO]: Timings Reset
+[14:08:51] [Server thread/INFO]: Stopping server
+[14:08:51] [Server thread/INFO]: Saving players
+[14:08:51] [Server thread/INFO]: Saving worlds
+[14:08:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:08:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:08:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:08:52] [Server thread/INFO]: Flushing Chunk IO
+[14:08:52] [Server thread/INFO]: Closing Thread Pool
+[14:08:52] [Server thread/INFO]: Closing Server
