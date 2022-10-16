@@ -1,0 +1,1 @@
+java -Xmx8G -Xms2G -jar paper-1.19-28.jar

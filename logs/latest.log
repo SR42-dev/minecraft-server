@@ -1,0 +1,41 @@
+[12:49:02] [ServerMain/INFO]: Building unoptimized datafixer
+[12:49:03] [ServerMain/ERROR]: Failed to load properties from file: server.properties
+[12:49:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:49:03] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[12:49:04] [ServerMain/INFO]: Loaded 7 recipes
+[12:49:06] [Server thread/INFO]: Starting minecraft server version 1.19
+[12:49:06] [Server thread/INFO]: Loading properties
+[12:49:06] [Server thread/INFO]: This server is running Paper version git-Paper-28 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: b0eb4e0)
+[12:49:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:49:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:49:06] [Server thread/INFO]: Default game type: SURVIVAL
+[12:49:06] [Server thread/INFO]: Generating keypair
+[12:49:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:49:06] [Server thread/INFO]: Using epoll channel type
+[12:49:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:49:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[12:49:07] [Server thread/INFO]: Preparing level "world"
+[12:49:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:49:16] [Server thread/INFO]: Time elapsed: 292 ms
+[12:49:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:49:16] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:49:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:49:17] [Server thread/INFO]: Time elapsed: 467 ms
+[12:49:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:49:17] [Server thread/INFO]: Time elapsed: 281 ms
+[12:49:17] [Server thread/INFO]: Running delayed init tasks
+[12:49:17] [Server thread/INFO]: Done (11.040s)! For help, type "help"
+[12:49:17] [Server thread/INFO]: Timings Reset
+[12:50:50] [Server thread/INFO]: Stopping server
+[12:50:50] [Server thread/INFO]: Saving players
+[12:50:50] [Server thread/INFO]: Saving worlds
+[12:50:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:50:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:50:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:50:53] [Server thread/INFO]: Flushing Chunk IO
+[12:50:53] [Server thread/INFO]: Closing Thread Pool
+[12:50:53] [Server thread/INFO]: Closing Server
